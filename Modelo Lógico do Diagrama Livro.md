@@ -1,3 +1,5 @@
+<p> <img alt="Web" src="https://github.com/alexandrezamberlan/bancoDeDadosUFN/blob/main/diagramas/modeloER_Conceitual_editora.png" /></p>
+
 EDITORA (id_Editora, nome) 
 
 LIVRO (id_Livro, título, preço,  id_Editora, id_Gênero) 
