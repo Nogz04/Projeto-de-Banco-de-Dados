@@ -1,1 +1,1 @@
-![TRABALHO PBD - MySQL - Modelo Peças Receptaculo](https://github.com/Nogz04/Projeto-de-Banco-de-Dados/assets/127986753/ab9ace78-ed0f-4e27-aecc-bc109292bc2e)
+![TRABALHO PBD - MySQL - Modelo Peças Receptaculo](https://github.com/Nogz04/Projeto-de-Banco-de-Dados/assets/127986753/edf7e81d-283a-481f-8c66-b97f5a2bda54)
